@@ -1,4 +1,4 @@
-
+print('hello werld')
 # unittest.skip方法
 import unittest
 version = 30
