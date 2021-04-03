@@ -1,5 +1,4 @@
-print('hello werld')
-print('hhhhhhh')
+
 # unittest.skip方法
 import unittest
 version = 30
